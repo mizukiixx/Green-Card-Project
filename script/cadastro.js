@@ -47,5 +47,5 @@ async function cadastroUsuario(e) {
     }
 
     alert("Cadastro feito com sucesso");
-    window.location.href = "login.html";
+    window.location.href = "/view/login.html";
 }
