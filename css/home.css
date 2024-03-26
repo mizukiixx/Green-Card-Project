@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    color: white;
+    font-family: 'Oswald', sans-serif, monospace;
+    font-weight: 600;
+    letter-spacing: 0.25rem;
+    height: 100%;
+}
+
+header > ul {
+    display: flex;
+    padding: 10px;  
+}
+
+footer{
+    background-color: rgb(22, 196, 31);
+}
+  
+.logo {
+    font-size: 2.25rem;
+    padding-left: 1rem;
+}  
+
+header {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(22, 196, 31);
+    padding: 10px;  
+}
